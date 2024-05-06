@@ -1,16 +1,14 @@
 # elianazpage
 <div class="quote quote1">
-Love is friendship that has caught fire. It is quiet 
-understanding, mutual confidence, sharing and forgiving. 
-It is loyalty through good and bad times. It settles for 
-less than perfection and makes allowances for human weaknesses. 
-<br>- Ann Landers
+Whoever does not love does not know God, because God is love.
+<br>- 1 John 4:8
 </div>
 
 <div class="quote quote2">
-Love is the most important thing in the world, but baseball
-is pretty good too. 
-<br>- Yogi Berra
+A new command I give you: 
+  Love one another. As I have loved you, so you must love one another. 
+  By this everyone will know that you are my disciples, if you love one another.
+<br>- John 13:34-35
 </div>
 
 <div class="quote quote3">
