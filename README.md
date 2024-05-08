@@ -1,5 +1,5 @@
-<div class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
+<div class="Bible Verses">
+  <a href="#default" class="logo">Eliana Zarspada</a>
   <div class="header-right">
     <a class="active" href="#home">Home</a>
     <a href="#contact">Contact</a>
